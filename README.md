@@ -48,7 +48,7 @@ You may need rust installed as well, in case tokenizers does not provide a pre-b
 ``pip install setuptools-rust``
 
 ## Usage
-To test whisper, a 30 second excerpt is stored as an mp3 file in the audio folder.
+To test Whisper, an audio file can be stored in the "audio" folder. 
 
 
 ## Results
