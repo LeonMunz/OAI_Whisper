@@ -1,5 +1,8 @@
 # OAI_Whisper
+Whisper is an automatic speech recognition (ASR) system trained on 680,000 hours of multilingual and multitask supervised data collected from the web.
+
 whisper: https://openai.com/blog/whisper/
+
 whisper_git: https://github.com/openai/whisper
 
 
